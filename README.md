@@ -1,4 +1,4 @@
-# maven_challenge
+# maven_cafe_rewards_challenge
 ## Goal
 Identify key Cafe Rewards customer segments and define offers that should used to target them effectively.
 
